@@ -1,4 +1,7 @@
 # Linux-NetSpeed
+本脚本已不更新，推荐使用5.5以上内核自带的bbr速度最佳
+- https://roov.org/2020/03/bbr-bbrplus-bbr2/
+- 推荐使用该脚本：bash <(curl -Lso- https://git.io/kernel.sh)
 ```
 先安装 wget环境
 yum -y install wget    ##ContOS Yum 安装 wget
